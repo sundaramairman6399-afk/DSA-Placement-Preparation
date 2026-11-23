@@ -1,6 +1,7 @@
 #include<bits/stdc++.h> 
 using namespace std  ; 
-
+//formation through vector . 
+//space complexity is O(2*e);
 
 int main(){
     int n; 
